@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#ron-morgan-cover {
+    background-image: url("http://imgur.com/6IdJNuL.jpg");
+}
+
+#ron-morgan-card {
+    background-image: url("http://imgur.com/UeMeOHA.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
